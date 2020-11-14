@@ -5,6 +5,7 @@
  - [The 2020 Siberian heat wave](https://github.com/VACILT/siberian_heat_wave/blob/main/bib/joc.6850.pdf)
  - [The Siberian heatwave out of internal variability](https://twitter.com/ClimateFlavors/status/1276092906709880837/photo/1)
  - [Unusual wave propagation into the stratosphere](https://acd-ext.gsfc.nasa.gov/Data_services/met/metdata/annual/merra2/flux/vt45_75-45n_100_2019_merra2.pdf)
+ - Comparison to the [exceptionally cold Arctic winter 2004/2005](https://angeo.copernicus.org/articles/25/1279/2007/)
 
  ### Tools
   - [aostools](https://github.com/mjucker/aostools)
