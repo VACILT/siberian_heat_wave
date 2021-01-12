@@ -71,4 +71,3 @@ if ncfiles:
 		lon = np.append(lon, get_nc_data(file, 'lon')) 	
 						
 			
-print(ComputeVertEddy(ver,tem,lev))
